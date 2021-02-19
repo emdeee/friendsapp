@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Small test project to try out ruby on rails
 
-Things you may want to cover:
+ruby version: 2.7.2
 
-* Ruby version
+rails version: 6.1.2.1
 
-* System dependencies
+sqlite3 version: 3.8.7.2
 
-* Configuration
+yarn version: 1.22.5
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To be honest I'm not quite sure how to run this on different machines since I'm still trying to figure things out myself.
